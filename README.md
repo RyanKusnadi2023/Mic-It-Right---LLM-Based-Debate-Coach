@@ -13,6 +13,8 @@ This application aims to help users grow as debaters by providing them with:
 
 This repository contains the Minimum Viable Product that contains the core flow of the app. Users can get random motions, casebuild, deliver their speech, and receive their feedback. 
 
+Skills and Technology: SwiftUI, MVVM, OpenAI GPT API, OpenAI Whisper API, Prompt Engineering, Embedding
+
 ## Snapshot
 ![1- Gym v21_Halaman Awal (1)](https://github.com/RyanKusnadi2023/Mic-It-Right---LLM-Based-Debate-Coach/assets/138027129/8d328545-1650-4e7a-957b-c0e9a2e49f06)
 ![2 - Guideline2_Halaman Tutorial](https://github.com/RyanKusnadi2023/Mic-It-Right---LLM-Based-Debate-Coach/assets/138027129/a3dc1065-95a4-41a6-81e0-7e1ccb066dab)
