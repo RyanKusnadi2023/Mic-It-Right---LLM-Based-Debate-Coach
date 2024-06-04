@@ -5,9 +5,9 @@
 Mic It Right is an iOS application designed to make high-quality debate coaching accessible and affordable. By leveraging a Large Language Model (LLM), the app provides personalized debate coaching, making it easier for users to improve their debate skills without the high cost and time constraints associated with traditional coaching.
 
 This application aims to help users grow as debaters by providing them with:
-- Provide a low cost personalized debate coaching using LLM
-- Give real-time feedback on debate performance
-- Practice debates with AI opponents
+- A low cost personalized debate coaching using LLM
+- Real-time feedback on debate performance
+- Chance to practice debates with AI opponents
 - Analytics and progress tracking
 - Resource library with debate materials and tips
 
